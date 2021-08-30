@@ -431,7 +431,7 @@
       "reviewCategory": "production"
     },
     {
-      "packageName": "test",
+      "packageName": "@wz-helper/xixi",
       "projectFolder": "packages/xixi",
       "shouldPublish": true,
       "reviewCategory": "production"
