@@ -1,0 +1,17 @@
+{
+  "name": "@wz-helper/deno",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@wz-helper/deno_v1.0.1",
+      "date": "Mon, 30 Aug 2021 10:07:25 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "deno"
+          }
+        ]
+      }
+    }
+  ]
+}
