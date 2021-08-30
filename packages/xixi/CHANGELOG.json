@@ -1,6 +1,18 @@
 {
-  "name": "@wz-helper/xixi",
+  "name": "test",
   "entries": [
+    {
+      "version": "2.0.2",
+      "tag": "test_v2.0.2",
+      "date": "Mon, 30 Aug 2021 09:39:21 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "test"
+          }
+        ]
+      }
+    },
     {
       "version": "2.0.1",
       "tag": "@wz-helper/xixi_v2.0.1",
