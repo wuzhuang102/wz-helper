@@ -2,6 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   '@rush-temp/hello-react': file:./projects/hello-react.tgz
+  '@rush-temp/xixi': file:./projects/xixi.tgz
   '@testing-library/jest-dom': ^5.11.4
   '@testing-library/react': ^11.1.0
   '@testing-library/user-event': ^12.1.10
@@ -12,6 +13,7 @@ specifiers:
 
 dependencies:
   '@rush-temp/hello-react': file:projects/hello-react.tgz
+  '@rush-temp/xixi': file:projects/xixi.tgz
   '@testing-library/jest-dom': 5.14.1
   '@testing-library/react': 11.2.7_react-dom@17.0.2+react@17.0.2
   '@testing-library/user-event': 12.8.3
@@ -4287,6 +4289,10 @@ packages:
       abab: 2.0.5
       whatwg-mimetype: 2.3.0
       whatwg-url: 8.7.0
+    dev: false
+
+  /dayjs/1.10.6:
+    resolution: {integrity: sha512-AztC/IOW4L1Q41A86phW5Thhcrco3xuAA+YX/BLpLWWjRcTj5TOt/QImBLmCKlrF7u7k47arTnOyL6GnbG8Hvw==}
     dev: false
 
   /debug/2.6.9:
@@ -11792,13 +11798,14 @@ packages:
     dev: false
 
   file:projects/hello-react.tgz:
-    resolution: {integrity: sha512-Ec/eA3zM17voZ7Nfh7E4cdu0NIMtdkZc6BakOPaVB/Q4GkAfW1KLJY53N1FwI5hZYsEIvBT/xSLtPEOysnbSWw==, tarball: file:projects/hello-react.tgz}
+    resolution: {integrity: sha512-QKu4czUYWz4/bAYSO1VroHb5xr82TMiHX+zx45jlX6W+2mGpxKSs3Lh4Nkx16brOABRvzJruyH7uNOXiaDGxig==, tarball: file:projects/hello-react.tgz}
     name: '@rush-temp/hello-react'
     version: 0.0.0
     dependencies:
       '@testing-library/jest-dom': 5.14.1
       '@testing-library/react': 11.2.7_react-dom@17.0.2+react@17.0.2
       '@testing-library/user-event': 12.8.3
+      dayjs: 1.10.6
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       react-scripts: 4.0.3_react@17.0.2
@@ -11821,4 +11828,12 @@ packages:
       - webpack-command
       - webpack-hot-middleware
       - webpack-plugin-serve
+    dev: false
+
+  file:projects/xixi.tgz:
+    resolution: {integrity: sha512-UIFUtxAU+zXtvTh2Os66uqQhU05QvhjHSPifn4nyPx1NIoY6etWGvL4a/FH2P6F5XjGRePaL43FMdXSsY/qnDg==, tarball: file:projects/xixi.tgz}
+    name: '@rush-temp/xixi'
+    version: 0.0.0
+    dependencies:
+      dayjs: 1.10.6
     dev: false
