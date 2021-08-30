@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@wz-helper/hello-react",
+      "comment": " change something",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@wz-helper/hello-react"
+}
