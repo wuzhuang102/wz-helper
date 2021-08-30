@@ -427,6 +427,7 @@
     {
       "packageName": "hello-react",
       "projectFolder": "packages/hello-react",
+      "shouldPublish": true,
       "reviewCategory": "production"
     }
     //
