@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "xixi",
+      "comment": "xixi init",
+      "type": "patch"
+    }
+  ],
+  "packageName": "xixi"
+}
