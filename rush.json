@@ -429,6 +429,12 @@
       "projectFolder": "packages/hello-react",
       "shouldPublish": true,
       "reviewCategory": "production"
+    },
+    {
+      "packageName": "xixi",
+      "projectFolder": "packages/xixi",
+      "shouldPublish": true,
+      "reviewCategory": "production"
     }
     //
     // {
