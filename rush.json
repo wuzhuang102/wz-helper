@@ -425,13 +425,13 @@
     // },
     //
     {
-      "packageName": "hello-react",
+      "packageName": "@wz-helper/hello-react",
       "projectFolder": "packages/hello-react",
       "shouldPublish": true,
       "reviewCategory": "production"
     },
     {
-      "packageName": "xixi",
+      "packageName": "@wz-helper/xixi",
       "projectFolder": "packages/xixi",
       "shouldPublish": true,
       "reviewCategory": "production"
