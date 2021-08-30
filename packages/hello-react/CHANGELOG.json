@@ -2,6 +2,18 @@
   "name": "@wz-helper/hello-react",
   "entries": [
     {
+      "version": "1.0.0",
+      "tag": "@wz-helper/hello-react_v1.0.0",
+      "date": "Mon, 30 Aug 2021 08:46:37 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "test"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.1.2",
       "tag": "@wz-helper/hello-react_v0.1.2",
       "date": "Mon, 30 Aug 2021 07:17:28 GMT",

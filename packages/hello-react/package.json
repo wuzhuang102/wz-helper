@@ -1,6 +1,6 @@
 {
   "name": "@wz-helper/hello-react",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "private": true,
   "publishConfig": {
     "access": "public"
