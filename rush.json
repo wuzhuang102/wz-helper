@@ -431,8 +431,8 @@
       "reviewCategory": "production"
     },
     {
-      "packageName": "@wz-helper/xixi",
-      "projectFolder": "packages/xixi",
+      "packageName": "@wz-helper/deno",
+      "projectFolder": "packages/deno",
       "shouldPublish": true,
       "reviewCategory": "production"
     }
