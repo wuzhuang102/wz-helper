@@ -1,6 +1,13 @@
 # Change Log - @wz-helper/xixi
 
-This log was last generated on Mon, 30 Aug 2021 08:46:37 GMT and should not be manually modified.
+This log was last generated on Mon, 30 Aug 2021 09:10:46 GMT and should not be manually modified.
+
+## 2.0.1
+Mon, 30 Aug 2021 09:10:46 GMT
+
+### Patches
+
+- test
 
 ## 2.0.0
 Mon, 30 Aug 2021 08:46:37 GMT
