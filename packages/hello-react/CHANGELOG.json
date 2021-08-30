@@ -1,0 +1,17 @@
+{
+  "name": "@wz-helper/hello-react",
+  "entries": [
+    {
+      "version": "0.1.1",
+      "tag": "@wz-helper/hello-react_v0.1.1",
+      "date": "Mon, 30 Aug 2021 06:33:57 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": " change something"
+          }
+        ]
+      }
+    }
+  ]
+}
