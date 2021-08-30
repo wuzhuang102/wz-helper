@@ -424,11 +424,11 @@
     //   // "versionPolicyName": ""
     // },
     //
-    // {
-    //   "packageName": "my-controls",
-    //   "projectFolder": "libraries/my-controls",
-    //   "reviewCategory": "production"
-    // },
+    {
+      "packageName": "hello-react",
+      "projectFolder": "packages/hello-react",
+      "reviewCategory": "production"
+    }
     //
     // {
     //   "packageName": "my-toolchain",
