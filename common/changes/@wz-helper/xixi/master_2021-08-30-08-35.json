@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@wz-helper/xixi",
+      "comment": "test",
+      "type": "major"
+    }
+  ],
+  "packageName": "@wz-helper/xixi"
+}
