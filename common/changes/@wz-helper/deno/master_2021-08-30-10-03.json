@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@wz-helper/deno",
+      "comment": "deno",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@wz-helper/deno"
+}
